@@ -11,7 +11,7 @@ button{
 .landing{
     background-image: url(/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash.png);
     min-width: 100%;
-    height:790px;
+    height:100vh;
     background-size: cover;
     background-repeat: no-repeat;
     object-fit: cover;
